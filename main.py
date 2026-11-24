@@ -24,6 +24,13 @@ database lost-vs-unreachable wordplay everywhere):
   on the sharpest beat: "anyone who gives you one is guessing."
 - It is tight: three short sentences, 126 characters, every word
   earning its place.
+
+Runner-up: "The API, the dashboard, and the database are down. I
+cannot tell you why. I will not guess, and there is no ETA." (112
+characters) -- just as honest, but the winning line's final beat
+("anyone who gives you one is guessing") says the same refusal
+sharper, and names the guessers instead of only refusing to join
+them.
 """
 
 import os
